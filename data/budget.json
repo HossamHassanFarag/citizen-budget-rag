@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "title": "موازنة المواطن - عن الموازنة المعتمدة للعام المالي 2027/2026",
+    "subtitle": "موازنة الاستقرار وتعميق الشراكة مع مجتمع الأعمال - الإصدار الثالث عشر",
+    "year": "2026/2027",
+    "source": "موازنة المواطن 2026/2027 – وزارة المالية المصرية",
+    "publication_date": "أغسطس 2026",
+    "note": "جميع الأرقام مستخرجة من نص الوثيقة الرسمية (موازنة المواطن). القيم غير المؤكدة تم تركها null."
+  },
+
+  "economic_indicators": {
+    "gdp_market_price": {"value": 24.5, "unit": "تريليون جنيه", "source": "موازنة المواطن 2026/2027", "page": 11},
+    "real_growth_rate": {"value": 5.4, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 10},
+    "inflation_deflator": {"value": 9.3, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 11},
+    "avg_interest_rate_bonds": {"value": 18, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 10},
+    "total_planned_investment": {"value": 4.2, "unit": "تريليون جنيه", "source": "موازنة المواطن 2026/2027", "page": 11},
+    "private_investment_share_increase": {"value": 59, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 11},
+    "investment_rate": {"value": 17, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 11},
+    "savings_rate": {"value": 10.5, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 11},
+    "target_unemployment_rate": {"value": 6.2, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 11},
+    "target_export_growth_avg": {"value": 12.3, "unit": "% (متوسط سنوي)", "source": "موازنة المواطن 2026/2027", "page": 11},
+    "priority_sectors_share_gdp": {"value": 35.4, "unit": "% (زراعة، صناعة، اتصالات وتكنولوجيا معلومات)", "source": "موازنة المواطن 2026/2027", "page": 11}
+  },
+
+  "revenues": {
+    "total_revenues_budget_sector": {"value": 4.1, "unit": "تريليون جنيه", "growth_pct": 30, "source": "موازنة المواطن 2026/2027", "page": 13},
+    "total_tax_revenues": {"value": 3.5, "unit": "تريليون جنيه", "source": "موازنة المواطن 2026/2027", "page": 13},
+    "general_government_revenues": {"value": 8.3, "unit": "تريليون جنيه", "note": "جملة إيرادات الحكومة العامة (منظور موسع يشمل الهيئات الاقتصادية)", "source": "موازنة المواطن 2026/2027", "page": 13},
+    "target_tax_revenue_to_gdp": {"value": 14.4, "unit": "%", "note": "أعلى نقطة خلال 10 سنوات", "source": "موازنة المواطن 2026/2027", "page": 42}
+  },
+
+  "expenditures": {
+    "total_expenditure_budget_sector": {"value": 5.2, "unit": "تريليون جنيه", "growth_pct": 13.4, "source": "موازنة المواطن 2026/2027", "page": 13},
+    "general_government_expenditure": {"value": 9.7, "unit": "تريليون جنيه", "note": "جملة مصروفات الحكومة العامة (منظور موسع)", "source": "موازنة المواطن 2026/2027", "page": 13},
+    "wages_and_compensations": {"value": 822.8, "unit": "مليار جنيه", "pct_of_gdp": 3.4, "prev_year_value": 679.1, "growth_pct": 21.2, "source": "موازنة المواطن 2026/2027", "page": 19},
+    "subsidies_grants_social_benefits_total": {"value": 836.8, "unit": "مليار جنيه", "growth_pct": 12.7, "source": "موازنة المواطن 2026/2027", "page": 20}
+  },
+
+  "deficit": {
+    "overall_deficit_to_gdp": {"value": 4.9, "unit": "% من الناتج المحلي الإجمالي", "reduction_vs_prev_year_pct_points": 2.4, "source": "موازنة المواطن 2026/2027", "page": 13}
+  },
+
+  "primary_surplus": {
+    "target_value": {"value": 1.2, "unit": "تريليون جنيه", "source": "موازنة المواطن 2026/2027", "page": 13},
+    "target_pct_of_gdp": {"value": 5, "unit": "% من الناتج المحلي الإجمالي", "year": "2027/2026", "source": "موازنة المواطن 2026/2027", "page": 10},
+    "prev_year_pct_of_gdp": {"value": 4, "unit": "%", "year": "2026/2025", "source": "موازنة المواطن 2026/2027", "page": 10},
+    "avg_5_years_pct": {"value": 3.8, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 10},
+    "avg_10_years_pct": {"value": 1.2, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 10}
+  },
+
+  "debt": {
+    "budget_sector_debt_to_gdp_target": {"value": 78.1, "unit": "%", "target_date": "يونيو 2027", "source": "موازنة المواطن 2026/2027", "page": 13},
+    "debt_to_gdp_2026_2027": {"value": 78.1, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 10},
+    "debt_to_gdp_2028_2027": {"value": 75.2, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 10},
+    "debt_to_gdp_2029_2028": {"value": 72.2, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 10},
+    "debt_to_gdp_2030_2029": {"value": 69.9, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 10},
+    "debt_to_gdp_2025_2026": {"value": 82.4, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 10},
+    "debt_to_gdp_june_2025": {"value": 82.5, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 50},
+    "debt_to_gdp_dec_2025": {"value": 78, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 50},
+    "debt_to_gdp_june_2023": {"value": 96, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 50},
+    "external_debt_budget_sector_june_2025": {"value": 78.5, "unit": "مليار دولار", "reduction_over_period": "4 مليار دولار", "source": "موازنة المواطن 2026/2027", "page": 50},
+    "general_government_debt_ceiling_pct_gdp": {"value": 89.5, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 13},
+    "domestic_debt_share_of_total_june_2025": {"value": 74, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 51}
+  },
+
+  "revenue_expenditure_growth_series": {
+    "years": ["2022/2021", "2023/2022", "2024/2023", "2025/2024", "2026/2025", "2027/2026"],
+    "revenue_growth_pct": [22.6, 13.7, 17.4, 30.0, 27.4, 30.1],
+    "primary_expenditure_growth_pct": [21.5, 23.0, 19.9, 13.2, 16.1, null],
+    "source": "موازنة المواطن 2026/2027",
+    "page": 11,
+    "note": "بعض قيم نمو المصروفات الأولية غير واضحة بدقة في تخطيط الرسم البياني الأصلي وتُركت null عند عدم اليقين"
+  },
+
+  "social_protection": {
+    "electricity_subsidy": {"value": 104.2, "unit": "مليار جنيه", "growth_pct": 39, "source": "موازنة المواطن 2026/2027", "page": 20},
+    "commodity_supply_subsidy": {"value": 178.3, "unit": "مليار جنيه", "growth_pct": 11.4, "beneficiaries": "أكثر من 60 مليون مواطن", "source": "موازنة المواطن 2026/2027", "page": 20},
+    "housing_low_middle_income": {"value": 13, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 20},
+    "local_wheat_purchase_financing": {"value": 69.1, "unit": "مليار جنيه", "note": "شراء القمح المحلي بسعر توريد 2500 جنيه للأردب", "source": "موازنة المواطن 2026/2027", "page": 20},
+    "urban_development_fund": {"value": 4.6, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 20},
+    "water_subsidy_allocation": {"value": 5, "unit": "مليار جنيه", "prev_year_value": 2, "growth_pct": 150, "source": "موازنة المواطن 2026/2027", "page": 20},
+    "food_allocation_ministries": {"value": 19.2, "unit": "مليار جنيه", "prev_year_value": 16.8, "growth_pct": 14.7, "source": "موازنة المواطن 2026/2027", "page": 20},
+    "medicine_allocation": {"value": 33.3, "unit": "مليار جنيه", "prev_year_value": 22.0, "growth_pct": 51.7, "source": "موازنة المواطن 2026/2027", "page": 20},
+    "medical_supplies_allocation": {"value": 15.9, "unit": "مليار جنيه", "prev_year_value": 11, "growth_pct": 44.5, "source": "موازنة المواطن 2026/2027", "page": 21},
+    "energy_efficiency_allocation": {"value": 120, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 21},
+    "takaful_karama_program": {"value": 55.2, "unit": "مليار جنيه", "beneficiary_families_million": 4.7, "source": "موازنة المواطن 2026/2027", "page": 21},
+    "other_social_safety_benefits": {"value": 296, "unit": "مليون جنيه", "source": "موازنة المواطن 2026/2027", "page": 21},
+    "affordable_housing_loans_interest_support": {"value": 170, "unit": "مليون جنيه", "source": "موازنة المواطن 2026/2027", "page": 22},
+    "upper_egypt_development_support": {"value": 450, "unit": "مليون جنيه", "source": "موازنة المواطن 2026/2027", "page": 22},
+    "natural_gas_home_connection_program": {"value": 3.5, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 22},
+    "eco_friendly_car_financing_support": {"value": 3.5, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 22},
+    "medicine_infant_formula_support": {"value": 5.0, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 22},
+    "haya_karima_total_phases_investment": {"value": 1.0, "unit": "تريليون جنيه", "note": "الاستثمارات الكلية المتوقعة لمبادرة حياة كريمة بمراحلها الثلاث", "villages_targeted": 4584, "source": "موازنة المواطن 2026/2027", "page": 23}
+  },
+
+  "health": {
+    "health_total_allocation": {"value": 862.9, "unit": "مليار جنيه", "pct_of_gdp": 4.2, "growth_value": 244.9, "growth_pct": 39.6, "source": "موازنة المواطن 2026/2027", "page": 26},
+    "constitutional_entitlement_met": true,
+    "unified_procurement_authority_medicines": {"value": 90.5, "unit": "مليار جنيه", "growth_pct": 25, "source": "موازنة المواطن 2026/2027", "page": 26},
+    "state_funded_treatment_and_insurance": {"value": 47.5, "unit": "مليار جنيه", "growth_pct": 69, "source": "موازنة المواطن 2026/2027", "page": 26},
+    "comprehensive_health_insurance_support_poor": {"value": 15.7, "unit": "مليار جنيه", "growth_pct": 215.8, "source": "موازنة المواطن 2026/2027", "page": 27},
+    "student_health_insurance_support": {"value": 390, "unit": "مليون جنيه", "beneficiaries_million": 26.5, "source": "موازنة المواطن 2026/2027", "page": 28},
+    "female_breadwinner_health_insurance_support": {"value": 38, "unit": "مليون جنيه", "beneficiaries_thousand": 191.5, "source": "موازنة المواطن 2026/2027", "page": 28},
+    "under_school_age_children_health_insurance_support": {"value": 172, "unit": "مليون جنيه", "beneficiaries_million": 11.4, "source": "موازنة المواطن 2026/2027", "page": 28},
+    "social_solidarity_pensioners_health_insurance_support": {"value": 200, "unit": "مليون جنيه", "source": "موازنة المواطن 2026/2027", "page": 28}
+  },
+
+  "education": {
+    "education_total_allocation": {"value": 1229.7, "unit": "مليار جنيه", "pct_of_gdp": 6, "source": "موازنة المواطن 2026/2027", "page": 26},
+    "scientific_research_allocation": {"value": 205.2, "unit": "مليار جنيه", "pct_of_gdp": 1, "source": "موازنة المواطن 2026/2027", "page": 26},
+    "constitutional_entitlement_met": true,
+    "budget_growth_pct_vs_general_expenditure_growth": {"education_growth": 20, "health_growth": 30, "general_expenditure_growth": 13, "source": "موازنة المواطن 2026/2027", "page": 26},
+    "school_textbooks_printing": {"value": 7.8, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 26},
+    "school_nutrition": {"value": 7, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 26}
+  },
+
+  "economic_support": {
+    "total_economic_activity_support_programs": {"value": 90, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 14},
+    "export_burden_refund_support": {"value": 48, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 14},
+    "tourism_sector_support": {"value": 6.7, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 14},
+    "productive_sectors_financing_facilities": {"value": 6, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 14},
+    "car_industry_support": {"value": 5.5, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 14},
+    "small_medium_enterprises_incentives": {"value": 5, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 14},
+    "priority_industries_incentives": {"value": 2, "unit": "مليار جنيه", "source": "موازنة المواطن 2026/2027", "page": 14}
+  },
+
+  "tax_reform": {
+    "target_tax_revenue_to_gdp_pct": {"value": 14.4, "unit": "%", "note": "أعلى نقطة خلال 10 سنوات", "source": "موازنة المواطن 2026/2027", "page": 42},
+    "tax_revenue_growth_2024_2025": {"value": 35, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 39},
+    "tax_revenue_growth_jul_may_2025_2026": {"value": 27.5, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 39},
+    "gdp_share_increase_2_years": {"value": 1.5, "unit": "نقطة مئوية من الناتج المحلي الإجمالي", "source": "موازنة المواطن 2026/2027", "page": 39},
+    "second_package_target_revenue_growth": {"value": 27, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 41},
+    "new_taxpayers_target": {"value": 100000, "unit": "ممول جديد", "source": "موازنة المواطن 2026/2027", "page": 41},
+    "vat_medical_devices_old_rate": {"value": 14, "unit": "%"},
+    "vat_medical_devices_new_rate": {"value": 5, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 40},
+    "real_estate_transaction_tax_individuals": {"value": 2.5, "unit": "% من قيمة بيع الوحدة", "source": "موازنة المواطن 2026/2027", "page": 41},
+    "residential_unit_tax_exemption_threshold_new": {"value": 8, "unit": "مليون جنيه", "prev_value": 2, "source": "موازنة المواطن 2026/2027", "page": 43}
+  },
+
+  "citizen_bond": {
+    "annual_net_return_pct": {"value": 17.75, "unit": "%", "source": "موازنة المواطن 2026/2027", "page": 51},
+    "payout_period_months": 18,
+    "min_investment": {"value": 10000, "unit": "جنيه", "source": "موازنة المواطن 2026/2027", "page": 51},
+    "nominal_value": {"value": 1000, "unit": "جنيه ومضاعفاتها", "source": "موازنة المواطن 2026/2027", "page": 51}
+  }
+}
